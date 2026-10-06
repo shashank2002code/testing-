@@ -29,7 +29,6 @@ with open('teams_config.json', 'r') as f:
 emptyTask = None
 home_dir = getcwd()
 month_name_mapping = {
-    1: "January",
     2: "February",
     3: "March",
     4: "April",
